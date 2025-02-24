@@ -1,3 +1,3 @@
-# My CV
+#  Check out my CV 
 
-<embed src="cv.pdf" width="100%" height="600px" />
+![My CV](https://github.com/maksimprivalov/maksimprivalov/raw/main/CVMaksimPrivalov.jpg)
