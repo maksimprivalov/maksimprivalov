@@ -4,7 +4,6 @@ Backend Software Engineer from Novi Sad, Serbia. Finishing Software Engineering 
 
 Into **fintech**, cybersecurity and distributed systems.
 
----
 
 ### Currently
 
@@ -15,12 +14,9 @@ Writing my thesis on **OAuth 2.0 and OpenID Connect in microservice architecture
 
 - *CopyBot* - a commercial Telegram bot for automated cross-posting between social networks, built in Java Spring with focus on concurrency and optimization.
 
-👇 See **pinned repositories** below for more projects and code.
-
-### Main stack
->Java / Spring Boot, Kafka, Docker, Hibernate, AWS, PostgreSQL, Rust
-
 More on my [CV](./CVMaksimPrivalov.pdf).
 
 *Reach me* via
 [LinkedIn](https://www.linkedin.com/in/maksim-privalov-1479a1263) or [Email](mailto:mprivalovs@gmail.com)
+
+👇 See **pinned repositories** below for more projects and code.
